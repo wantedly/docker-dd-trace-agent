@@ -18,3 +18,11 @@ $ docker run --name dd-trace-agent -d -p 7777:7777 -e DD_API_KEY=my_api_key -e D
 ## in Kubernetes
 
 TBD
+
+## Author
+
+[wantedly](https://github.com/wantedly)
+
+## License
+
+[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
